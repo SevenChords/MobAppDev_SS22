@@ -1,8 +1,7 @@
 # MobAppDev_SS22
 
 # Repositories for the iOS App:  
-App: not yet created  
-Library: https://github.com/SevenChords/Sudoku-King-iOS-core  
+App: https://github.com/SevenChords/Sudoku_King_iOS  
 
 # Repositories for the Android App (Lukas):
 App: https://github.com/LksWllmnn/SudokuKing_Android  
